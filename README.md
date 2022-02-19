@@ -4,7 +4,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Juhani%20Kangas&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
-
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 ![](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=ffffff)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
@@ -29,6 +28,6 @@
 
 [![](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=ffffff)](https://unity.com/)
 
- 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 

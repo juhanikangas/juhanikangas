@@ -28,6 +28,6 @@
 
 [![](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=ffffff)](https://unity.com/)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 

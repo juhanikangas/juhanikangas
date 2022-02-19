@@ -2,8 +2,8 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Juhani%Kangas&descAlignY=51&descAlign=62)
-<p align='center'> Hello im a passionate Full-Stack developer from Finland, thanks for visiting ☺️ </p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kangas%Juhani&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%im%a%passionate%Full-Stack%developer%from%Finland,%thanks%for%visiting%☺️&descAlignY=51&descAlign=62)
+
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 ![](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=ffffff)

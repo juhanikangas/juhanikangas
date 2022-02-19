@@ -1,4 +1,6 @@
-![ClipWindowsGIF (3)](https://user-images.githubusercontent.com/81151521/154822408-e515e2a0-ce77-49d5-8c15-82775e53fc02.gif)
+Hello im a passionate Full-Stack developer from Finland, thanks for visiting ☺️
+
+![PcBangingGIF](https://user-images.githubusercontent.com/81151521/154822426-ca002278-1f14-4354-8821-d519b8ee18be.gif)
 
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)

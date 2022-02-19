@@ -9,7 +9,7 @@ Hello im a passionate Full-Stack developer from Finland, thanks for visiting ☺
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJSt&logoColor=ffffff)](https://nextjs.org/docs)
+[![](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=ffffff)](https://nextjs.org/docs)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)

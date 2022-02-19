@@ -1,5 +1,6 @@
 Hello im a passionate Full-Stack developer from Finland, thanks for visiting ☺️
 
+
 ![PcBangingGIF](https://user-images.githubusercontent.com/81151521/154822426-ca002278-1f14-4354-8821-d519b8ee18be.gif)
 
 
@@ -30,4 +31,3 @@ Hello im a passionate Full-Stack developer from Finland, thanks for visiting ☺
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhanikangas&layout=compact&theme=tokyonight)

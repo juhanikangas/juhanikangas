@@ -4,15 +4,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Juhani%20Kangas&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 <p align='center'>
-  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
- [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-![](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=ffffff)
-[![]()](https://code.visualstudio.com/)
-
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff/>
-  </a>
+    <img src="https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff"/>
 </p>
 
 [![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)

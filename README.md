@@ -2,7 +2,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Juhani%20Kangas&fontSize=7&fontColor=d6ace60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Juhani%20Kangas&fontSize=70&fontColor=d6ace60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 <p align='center'>
     <img src="https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff"/>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=ffffff"/>

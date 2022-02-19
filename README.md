@@ -4,7 +4,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
 <p align='center'> Hello im a passionate Full-Stack developer from Finland, thanks for visiting ☺️ </p>
-<p align='center'>[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+
+[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 ![](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=ffffff)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
 
@@ -28,7 +29,6 @@
 
 [![](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=ffffff)](https://unity.com/)
 
- </p>
-
+ 
 
 

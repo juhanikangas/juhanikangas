@@ -2,7 +2,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=768390&height=200&section=header&text=Juhani%20Kangas&fontSize=50&fontColor=22272e&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=768390&height=200&section=header&text=Juhani%20Kangas&fontSize=50&fontColor=adbac7&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 <p align='center'>My skills & tools</p>
 <p align='center'>
     <img src="https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff"/>

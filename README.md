@@ -3,6 +3,7 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=768390&height=200&section=header&text=Juhani%20Kangas&fontSize=50&fontColor=22272e&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+<p align='center'>My skills & tools</p>
 <p align='center'>
     <img src="https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff"/>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=ffffff"/>
@@ -16,11 +17,11 @@
     <img src="https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff"/>
     <img src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white"/>
+     <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=python&logoColor=ffffff"/>
 </p>
 <p align='center'>
     <img src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff"/>
-    <img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=python&logoColor=ffffff"/>
 </p>
 <p align='center'>
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=ffffff"/>

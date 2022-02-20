@@ -1,7 +1,3 @@
-
-
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=768390&height=200&section=header&text=Juhani%20Kangas&fontSize=50&fontColor=adbac7&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 <p align='center'>My skills & tools</p>
 <p align='center'>

@@ -18,6 +18,9 @@
 <p align='center'>
     <img src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/-Vite-B73BFE?style=flat-square&logo=vite&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
 </p>
 <p align='center'>
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=ffffff"/>

@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=768390&height=200&section=header&text=Juhani%20Kangas&fontSize=50&fontColor=adbac7&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 <p align='center'>My skills & tools</p>
 <p align='center'>Development Environments</p>
 <p align='center'>
@@ -40,3 +41,4 @@
     <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=768390&height=200&section=footer&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
